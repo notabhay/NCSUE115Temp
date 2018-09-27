@@ -1,0 +1,22 @@
+/*
+ *Name: [Abhay Sriwastawa]
+ *UnityID: [asriwas]
+ *Date: [09/27/2018]
+ *Assignment: [Independent Assignment 5]
+ *Description: [Independent Assignment Number 5 for Week 6 of E115]
+ */
+
+#body {
+  background-color: #00BCD4;
+}
+
+table {
+  style: none;
+  border-color: #EF6C00;
+  border-spacing: 0;
+}
+
+.image {
+  border: 2px outset;
+  border-color: #00FF00;
+}
