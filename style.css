@@ -11,12 +11,10 @@
 }
 
 table {
-  style: none;
-  border-color: #EF6C00;
+  border: 1px solid #EF6C00;
   border-spacing: 0;
 }
 
 .image {
-  border: 2px outset;
-  border-color: #00FF00;
+  border: 2px outset #00FF00;
 }
